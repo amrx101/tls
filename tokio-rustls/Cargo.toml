@@ -15,6 +15,7 @@ edition = "2018"
 tokio = "1.0"
 # rustls = "0.19"
 rustls = {git = "https://github.com/amrx101/rustls", branch="hsm_tag_19"}
+# rustls = {path="/Users/amit/rustls/rustls"}
 webpki = "0.21"
 
 [features]
